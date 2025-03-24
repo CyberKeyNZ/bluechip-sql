@@ -1,5 +1,5 @@
 # Bluechip SQL Project
-**By [Your Name], March 2025**
+**By Philip Van den Berg, March 2025**
 
 ## Overview
 A SQLite database built to practice SQL for IT procurement and support, inspired by Bluechip Infotech’s quoting team role in Ellerslie, NZ. Complements my CompTIA A+ and Network+ certifications, showcasing practical skills for quoting, renewals, and troubleshooting.
